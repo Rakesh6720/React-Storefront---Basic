@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Basic Storefront Page in React.js
 
 This project is a simple demonstration of a React.js front-end application, which introduces the concept of props.
 
